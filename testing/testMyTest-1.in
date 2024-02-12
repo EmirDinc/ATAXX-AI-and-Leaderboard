@@ -1,0 +1,35 @@
+#* java -ea ataxx.Main
+manual blue
+
+block d4
+block d3
+block d2
+block d1
+block a4
+block b4
+block c4
+
+g1-e3
+g7-e5
+a7-c5
+a1-c3
+e3-f3
+c3-b3
+f3-g3
+b3-a3
+e3-e2
+c3-c2
+e2-e1
+b3-a3
+c2-c1
+g3-g2
+a3-a2
+g2-g1
+a2-a1
+g1-f2
+a1-b2
+f2-f1
+b2-b1
+
+dump
+quit
